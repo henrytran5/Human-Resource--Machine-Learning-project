@@ -3,7 +3,9 @@
 Content and purpose:\
 
  The main goal of this project is to answer the questions that will help a company and get some meaning through the simulated dataset that we have. Our main question that we need an answer to is “Based on various factors from the data, can we predict if an Employee will leave a company or not?”. Other than we have can also add and answer to a few more questions in the future. After we get a decision on which employees are at risk of leaving the company, this can help the company review further questions in the future like:\ 
+ 
 •	Why are our best and most experienced employees leaving prematurely?\
+
 •	What are the reasons for employee turnover and the future estimate cost-to-hire for budget purposes?\
 These are a few questions that could be answered through more data if provided by the company and through the results of our Model. The objective of this project is to discover trends and predict the reasons due to which an employee is likely to leave a company. We have 10 attributes to build the model with and if required reduce the model capacity for a simplistic approach and solution but not compromising on the model performance.\
 Apply statistical models:\

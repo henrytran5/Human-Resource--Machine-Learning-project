@@ -1,4 +1,5 @@
-●Human Resource dataset
+●Human Resource dataset\\
+
 Content and purpose:
  The main goal of this project is to answer the questions that will help a company and get some meaning through the simulated dataset that we have. Our main question that we need an answer to is “Based on various factors from the data, can we predict if an Employee will leave a company or not?”. Other than we have can also add and answer to a few more questions in the future. After we get a decision on which employees are at risk of leaving the company, this can help the company review further questions in the future like:  
 •	Why are our best and most experienced employees leaving prematurely?
